@@ -1,4 +1,4 @@
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, I was able to explain to anyone, without the help of Google:
 
 Promises (how, why, and what)
 How to use the then, resolve, catch methods
