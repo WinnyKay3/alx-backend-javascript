@@ -1,15 +1,15 @@
-import ClassRoom from "./0-classroom";
+import ClassRoom from './0-classroom';
 
 export default function initializeRooms() {
   const list = [];
   list.push(
-    new ClassRoom(19)
+    new ClassRoom(19),
   );
   list.push(
-    new ClassRoom(20)
+    new ClassRoom(20),
   );
   list.push(
-    new ClassRoom(34)
+    new ClassRoom(34),
   );
   return list;
 }
