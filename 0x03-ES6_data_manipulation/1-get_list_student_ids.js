@@ -1,5 +1,5 @@
 function getListStudentIds(students) {
-  //get list of students
+  // get list of students
   if (!Array.isArray(students)) {
     return [];
   }
